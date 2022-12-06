@@ -1,6 +1,6 @@
 ### ¡Hola! Hallo! Hello! ¡Allinllachu! 
 
-Estudiante de Economía con interés en el área de Economía del Bienestar, Interculturalidad y Políticas Sociales, comprometido con el estudio y mitigación de la pobreza y la exclusión social. Experiencia de trabajo como asistente de investigación y de participación en proyectos sociales y humanitarios.
+Mi nombre es Fabio Salas, estudiante de Economía con interés en el área de Economía del Bienestar, Interculturalidad y Políticas Sociales, comprometido con el estudio y mitigación de la pobreza y la exclusión social. Experiencia de trabajo como asistente de investigación y de participación en proyectos sociales y humanitarios.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
