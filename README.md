@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Where you can find me ✨
+Puedes conocerme más visitando mis perfiles en redes sociales:
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
