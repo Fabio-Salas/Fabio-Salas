@@ -1,6 +1,6 @@
-### Hi there 👋
+### ¡Hola! Hallo! Hello! ¡Allinllachu! 
 
-Here are some ideas to get you started:
+Estudiante de Economía con interés en el área de Economía del Bienestar, Interculturalidad y Políticas Sociales, comprometido con el estudio y mitigación de la pobreza y la exclusión social. Experiencia de trabajo como asistente de investigación y de participación en proyectos sociales y humanitarios.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Puedes conocerme más visitando mis perfiles en redes sociales:
+### Puedes conocerme más visitando mis perfiles en redes sociales:
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
