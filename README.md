@@ -1,9 +1,8 @@
 # Fabio Manuel Salas
 ### ¡Hola! Hallo! Hello! ¡Allinllachu! 
 
-Mi nombre es Fabio Salas, estudiante de Economía con interés en el área de Economía del Bienestar, Interculturalidad y Políticas Sociales, comprometido con el estudio y mitigación de la pobreza y la exclusión social. Experiencia de trabajo como asistente de investigación y de participación en proyectos sociales y humanitarios.
+Peruano, comprometido asistente de Investigación, ávido lector de poesía y narrativa, y apasionado de la Economía del Desarrollo. Mis intereses en investigacion se relacionan con la medición de la pobreza bajo el enfoque de capacidades (Tesis de grado y apoyo de investigación en IDHAL-PUCP), el estudio del sistema de educación superior (en la Dirección Académica de Economía) y la historia de la Seguridad Social peruana en el S.XX (proyecto de Investigación PUCP). De la mano de la investigación, he formado parte en diversos proyectos y organizaciones sociales (Cruz Roja Peruana, 180DC PUCP, Acción Social e IDEH-PUCP) y he asumido un cargo de representación estudiantil (Secretario de Responsabilidad Social- AEE). Actualmente, realizo una Diplomatura de Especialización en "Ciencias de Datos para las Ciencias Sociales y la Gestión Pública" en el Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales (Q-LAB), y llevo dos cursos de articulación vertical en la Maestría en "Desarrollo Human: Enfoques y Políticas".
 
-- Actualmente trabajo en la Dirección Académica de Economía (DAE-PUCP) como asistente de investigación. Realizo estudios sobre el sistema de educación superior en el Perú. También soy asistente de investigación en el marco de un proyecto para reconstruir la Historia de la Seguridad Social en el Perú del Siglo XX. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,7 +11,7 @@ Mi nombre es Fabio Salas, estudiante de Economía con interés en el área de Ec
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-### Puedes conocerme más visitando mis perfiles en redes sociales:
+### Escríbeme para conversar:
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
