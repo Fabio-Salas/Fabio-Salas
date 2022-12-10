@@ -1,7 +1,19 @@
 # Fabio Manuel Salas
 ### ¡Hola! Hallo! Hello! ¡Allinllachu! 
 
-Peruano, comprometido asistente de Investigación, ávido lector de poesía y narrativa, y apasionado de la Economía del Desarrollo. Mis intereses en investigacion se relacionan con la medición de la pobreza bajo el enfoque de capacidades (Tesis de grado y apoyo de investigación en IDHAL-PUCP), el estudio del sistema de educación superior (en la Dirección Académica de Economía) y la historia de la Seguridad Social peruana en el S.XX (proyecto de Investigación PUCP). De la mano de la investigación, he formado parte en diversos proyectos y organizaciones sociales (Cruz Roja Peruana, 180DC PUCP, Acción Social e IDEH-PUCP) y he asumido un cargo de representación estudiantil (Secretario de Responsabilidad Social- AEE). Actualmente, realizo una Diplomatura de Especialización en "Ciencias de Datos para las Ciencias Sociales y la Gestión Pública" en el Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales (Q-LAB), y llevo dos cursos de articulación vertical en la Maestría en "Desarrollo Human: Enfoques y Políticas".
+Peruano, comprometido asistente de Investigación, ávido lector de poesía y narrativa, y apasionado de la Economía del Desarrollo. 
+
+### Actualmente me dedico a:
+* Investigación: Medición de la pobreza bajo el enfoque de capacidades (Tesis de grado y apoyo de investigación en IDHAL-PUCP); 
+* Trabajo: Estudios del sistema de educación superior (en la Dirección Académica de Economía) y la historia de la Seguridad Social peruana en el S.XX (proyecto de Investigación PUCP). 
+* Voluntariado: Director de Consultoría en 180DC-PUCP
+* Estudio: realizo una Diplomatura de Especialización en "Ciencias de Datos para las Ciencias Sociales y la Gestión Pública" en el Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales (Q-LAB)
+
+
+### Github Stats
+
+[![Fabio Manuel Salas GitHub Stats]([https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali](https://github.com/Fabio-Salas?tab=achievements))
+
 
 ### Escríbeme para conversar:
   
