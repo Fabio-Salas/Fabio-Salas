@@ -10,10 +10,7 @@ Peruano, comprometido asistente de Investigación, ávido lector de poesía y na
 * Estudio: realizo una Diplomatura de Especialización en "Ciencias de Datos para las Ciencias Sociales y la Gestión Pública" en el Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales (Q-LAB)
 
 
-### Github Stats
-
-[![Fabio Manuel Salas GitHub Stats]([https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali](https://github.com/Fabio-Salas?tab=achievements))
-
+[![Fabio Manuel Salas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio-Salas&show_icons=true&count_private=true)](https://github.com/Fabio-Salas)
 
 ### Escríbeme para conversar:
   
