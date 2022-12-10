@@ -18,6 +18,11 @@ Peruano, comprometido asistente de Investigación, ávido lector de poesía y na
 ### Algunas estadística (ando despacio porque voy de prisa):
 [![Fabio Manuel Salas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio-Salas&show_icons=true&count_private=true)](https://github.com/Fabio-Salas)
 
+### Lenguajes de programación:
+* Python (Intermedio)
+* R (Intermedio)
+* STATA (Avanzado)
+
 ### Escríbeme para conversar:
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
